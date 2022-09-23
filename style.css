@@ -46,3 +46,7 @@ width:25%;
 	color:white;
 	height:100px;
 }
+a:hover img{
+	border-left: 1px solid #203659;
+	border-right: 1px solid #203659;
+}
