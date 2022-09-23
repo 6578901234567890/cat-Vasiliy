@@ -4,3 +4,14 @@
 	border: 1px solid #203659;
 	font-family: Arial;
 }
+.header{
+	padding:10px;
+	background-color:#203659;
+	color:white;
+	height:100px;
+}
+.cat{
+	width:100px;
+	border-radius:50%;
+	float:left;
+}
